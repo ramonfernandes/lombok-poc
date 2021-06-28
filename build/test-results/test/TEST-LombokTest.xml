@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LombokTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-28T23:02:14" hostname="DESKTOP-O7RAVBH" time="0.015">
+  <properties/>
+  <testcase name="shouldHaveGetterAndSetter()" classname="LombokTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
